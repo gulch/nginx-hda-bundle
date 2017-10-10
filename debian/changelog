@@ -1,3 +1,15 @@
+nginx (1.13.6-1-thetalab~xenial) xenial; urgency=high
+
+  * nginx 1.13.6 build
+
+ -- gulch (gulch) <volodymyr@gulchuk.com>  Sat, 10 Oct 2017 20:00:00 +0000
+
+nginx (1.13.5-1-thetalab~xenial) xenial; urgency=medium
+
+  * nginx 1.13.5 build
+
+ -- gulch (gulch) <volodymyr@gulchuk.com>  Sat, 12 Aug 2017 16:12:11 +0000
+
 nginx (1.13.4-1-ppa7~xenial) xenial; urgency=medium
 
   * ngx_http_mirror_module (build in nginx 1.13.4?)
